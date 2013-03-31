@@ -31,6 +31,8 @@ PRODUCT_COPY_FILES += \
 	vendor/huawei/u8800/proprietary/bin/hci_qcomm_init:system/bin/hci_qcomm_init \
     vendor/huawei/u8800/proprietary/bin/hciattach:system/bin/hciattach \
 	vendor/huawei/u8800/proprietary/bin/hdmid:system/bin/hdmid \
+	vendor/huawei/u8800/proprietary/bin/hostapd:system/bin/hostapd \
+	vendor/huawei/u8800/proprietary/bin/hostapd_cli:system/bin/hostapd_cli \
     vendor/huawei/u8800/proprietary/bin/load_oemlogo:system/bin/load_oemlogo \
     vendor/huawei/u8800/proprietary/bin/mm-abl-daemon:system/bin/mm-abl-daemon \
     vendor/huawei/u8800/proprietary/bin/modempre:system/bin/modempre \
